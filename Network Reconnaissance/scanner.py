@@ -126,7 +126,7 @@ def find_cves(product, version):
         return []
     
     # --- PASTE YOUR NVD API KEY HERE ---
-    NVD_API_KEY = "200bd5e0-a137-4ba8-9039-32001581938d"  # <-- PASTE YOUR KEY INSIDE THE QUOTES
+    NVD_API_KEY = "PASTE_YOUR_NVD_API_KEY_HERE"  # <-- PASTE YOUR KEY INSIDE THE QUOTES
     
     try:
         # We don't need time.sleep() when using an API key because our limit is much higher
@@ -190,5 +190,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
