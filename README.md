@@ -25,7 +25,7 @@ Across these projects, I have demonstrated a variety of technical skills, includ
 
 ## 📞 Contact
 
-* **LinkedIn:** [Your LinkedIn Profile URL Here] - Let's connect!
+* **LinkedIn:** [https://www.linkedin.com/in/vijaya-kumar-nj-6bb4052a7/] - Let's connect!
 
 ## 📄 License
 
