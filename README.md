@@ -8,7 +8,8 @@ Below is a summary of the projects included in this repository.
 
 | Project                                                     | Description                                                                                             | Technologies Used         |
 | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------- |
-| **[Hash Cracker](./Hash_Cracker/)** | A command-line tool to crack salted password hashes using a multi-threaded dictionary attack.             | Python, Threading         |
+| **[Federated MasterPrint Detection](./Federated-MasterPrint-Detection/)** | A privacy-preserving AI defense system that uses Federated Learning to detect MasterPrint biometric attacks without centralized data storage. | Python, TensorFlow, FL    |
+| **[Hash Cracker](./Hash_Cracker/)** | A command-line tool to crack salted password hashes using a multi-threaded dictionary attack.           | Python, Threading         |
 | **[Automated Password Assessor](./Automated_password_security_assessor/)** | A web and CLI tool that assesses password strength and checks if it has been exposed in a data breach via the 'Have I Been Pwned' API. | Python, Streamlit, Requests |
 | **[Network Reconnaissance Tool](./Network%20Reconnaissance/)** | An advanced network scanner that performs host discovery, port scanning, service detection, and CVE lookup using the NVD API. | Python, Scapy, nvdlib     |
 
@@ -29,4 +30,4 @@ Across these projects, I have demonstrated a variety of technical skills, includ
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the `LICENSE` file for details.
+This project is licensed under the MIT License - see the `LICENSE` file for the details.
